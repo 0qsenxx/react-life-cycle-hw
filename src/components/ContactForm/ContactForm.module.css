@@ -1,0 +1,25 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+
+.contactName {
+  width: 150px;
+  margin-top: 10px;
+}
+
+.contactNumberLabel {
+    margin-top: 15px;
+}
+
+.contactNumber {
+  width: 150px;
+  margin-top: 10px;
+}
+
+.addContactBtn {
+    margin-top: 20px;
+    width: 90px;
+}

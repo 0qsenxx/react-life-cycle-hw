@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lefe-cycle-hw/static/css/main.d4d4098f.css",
+    "main.js": "/react-lefe-cycle-hw/static/js/main.b452dc84.js",
+    "index.html": "/react-lefe-cycle-hw/index.html",
+    "main.d4d4098f.css.map": "/react-lefe-cycle-hw/static/css/main.d4d4098f.css.map",
+    "main.b452dc84.js.map": "/react-lefe-cycle-hw/static/js/main.b452dc84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d4098f.css",
+    "static/js/main.b452dc84.js"
+  ]
+}
